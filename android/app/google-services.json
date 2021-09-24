@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213858653755",
+    "project_id": "flash-chat-a1286",
+    "storage_bucket": "flash-chat-a1286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213858653755:android:847d7a47ba9d5a0d022e1e",
+        "android_client_info": {
+          "package_name": "co.belalGamal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213858653755-38t1hh3i5ikvsj9vtmu2isglnue19eo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI6XlWM1Qr7BBMO2OoCTMe3sdO0jd0zvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213858653755-38t1hh3i5ikvsj9vtmu2isglnue19eo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
